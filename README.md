@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Currency Converter with Glowing UI
 
 A beautiful and functional currency converter with real-time exchange rates, built with React, TypeScript, and Python.
@@ -54,3 +55,6 @@ The application uses a Python backend to fetch real-time currency data from exch
 - Exchange rate data: Open Exchange Rates API (simulated)
 - Icons: Lucide React
 - UI Design: Custom implementation with Tailwind CSS
+=======
+# currency_converter
+>>>>>>> ae5e9b17a60bc8326f2779865bb14f6f844f6479
